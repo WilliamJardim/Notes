@@ -1,0 +1,29 @@
+.pagina-ajuda{
+    padding: 10px;
+    background-color:rgb(77, 77, 77);
+    border: solid 0.5px black;
+    border-radius: 16px;
+    overflow-y: scroll;
+    overflow-x: none;
+    color: white;
+    text-transform: uppercase;
+
+    .paragrafo{
+        font-size: 25px;
+        font-weight: bolder;
+        line-height: 1px;
+        margin-top: -8px;
+        margin-bottom: 0px;
+        text-decoration: none;
+        text-align: right;
+        font-weight: normal;
+        text-transform: lowercase;
+
+        .texto{
+            font-size: 25px;
+            line-height: 40px;
+            text-align: center;
+            color: white;
+        }
+    }
+}

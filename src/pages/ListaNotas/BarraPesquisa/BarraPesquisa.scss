@@ -1,0 +1,33 @@
+.campo-pesquisa{
+    width: 100%;
+    height: auto;
+    margin-bottom: 6px;
+    margin-left: 10px;
+
+    input{
+        width: 70%;
+        height: 40px;
+        padding: 15px;
+        font-size: 22px;
+        font-weight: normal;
+        border: solid 0.5px grey;
+        border-radius: 16px;
+        text-shadow: 1px 1px 1px grey;
+    }
+
+    input:hover{
+        background-color: rgb(37, 37, 37);
+        transition: 0.2s;
+    }
+
+    .botao{
+        margin-left: 9px;
+        width: 15%;
+        height: 72px;
+        padding: 15px;
+        font-size: 22px;
+        font-weight: normal;
+        border: solid 0.5px grey;
+        border-radius: 16px;
+    }
+}
