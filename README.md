@@ -3,3 +3,5 @@
 # Notes App
 This project is a Personal Notes application, with complete CRUD, and note search, made in React.js and TypeScript
 
+# Demo images
+![Demo 1](./public/demo/1.png)
